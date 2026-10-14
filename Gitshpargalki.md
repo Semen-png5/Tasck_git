@@ -71,9 +71,9 @@
 
 # Полезные мелочи
 
-· git config --global user.name "Ваше Имя" — настройка имени пользователя (делается один раз).
-· git config --global user.email "email@example.com" — настройка почты.
-· git remote -v — просмотр списка подключенных удаленных репозиториев
+**git config**  --global user.name "Ваше Имя" — настройка имени пользователя (делается один раз).
+**git config**  --global user.email "email@example.com" — настройка почты.
+**git remote**  -v — просмотр списка подключенных удаленных репозиториев
 
 
 
